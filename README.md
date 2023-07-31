@@ -20,3 +20,7 @@ The changes I have made all meet the current HTML5 standards.
 ## CSS changes
 
 - I have made specific changes for the CSS file to reduce repeating code.
+
+## Deployed link
+
+- Please find my deployed link here: https://balalsaleh.github.io/Horiseon-refactor/
